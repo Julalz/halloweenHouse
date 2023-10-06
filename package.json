@@ -1,11 +1,11 @@
 {
   "name": "threejs-journey-exercise",
-  "private": true,
+  "private": false,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "build"
+    "build": "vite build"
   },
   "devDependencies": {
     "vite": "^4.3.9"
